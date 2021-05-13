@@ -1,0 +1,42 @@
+.number-row {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.card-number {
+  background-color: #f3f3f3;
+  text-align: center;
+  width: 220px;
+  height: 120px;
+  border-radius: 8px;
+}
+
+.card-number h1 {
+  margin: 0;
+  margin-top: 12px;
+  font-size: 36px;
+}
+
+.card-number h3 {
+  margin: 0;
+  font-size: 16px;
+  font-weight: lighter;
+  color: gray ;
+}
+
+.info-row {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 40px;
+}
+
+.info-row h3 {
+  margin: 0;
+}
+
+#purple {
+  color: #966df8;
+}
